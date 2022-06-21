@@ -1,6 +1,7 @@
 # [Candy Crush](https://youtu.be/8yIKZQMGi0A)
 
-Coding Tutorial: https://youtu.be/8yIKZQMGi0A
+- Coding Tutorial: https://youtu.be/8yIKZQMGi0A
+- Demo: https://imkennyyip.github.io/candy-crush/
 
 In this tutorial, you will learn to create Candy Crush using HTML, CSS, and JavaScript. You will learn to swap candy pieces, crush candy pieces, and generate new ones.
 
